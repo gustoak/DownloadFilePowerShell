@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri "https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe" -OutFile "C:\%username%"\Downloads"
+Invoke-WebRequest -Uri "https://putTheAdressHere.com/template.exe" -OutFile "C:\%username%"\Downloads"
